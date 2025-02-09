@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NoiUaBIs8QU=",
+  "success": true,
+  "projectFilePath": "/Users/chloelee/Documents/personal learning/Microservice/Play.Catalog/src/Play.Catalog.Service/Play.Catalog.Service.csproj",
+  "expectedPackageFiles": [
+    "/Users/chloelee/.nuget/packages/microsoft.aspnetcore.openapi/9.0.1/microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
+    "/Users/chloelee/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
